@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9154
 description: At the Mermaid -- At the queen's palace -- A. Christmas carol of the
   olden time.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20210#Shakespeare-s-Christmas-Gift-to-Queen-Bess
 gutenberg_bookshelf: Christmas
 gutenberg_issued: '2006-12-28'
 gutenberg_type: Text
